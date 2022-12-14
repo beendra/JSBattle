@@ -198,8 +198,13 @@ function printLogHandler() {
         console.log('-------------');
     }
     // let j = 0;
-    // while(true) {
-    //     console.log('----')
+    // do{
+    //     console.log(j);
+    //     j++
+    // } while ( j <3);
+
+    // while(j < 3) {
+    //     console.log(j)
     //     j++;
     // }
     // for(let i = 0 ; i < battleLog.length; i++) {
